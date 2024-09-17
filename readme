@@ -1,0 +1,35 @@
+# Mi Proyecto
+
+## Descripción
+
+Este proyecto es una aplicación web que utiliza Node.js para el backend y Vue.js para el frontend. La aplicación está diseñada para [breve descripción del propósito o funcionalidad de la aplicación, por ejemplo, "gestionar tareas", "proveer información sobre idiomas", etc.].
+
+## Tecnologías Utilizadas
+
+- **Backend**: Node.js
+- **Frontend**: Vue.js
+
+## Estructura del Proyecto
+
+El proyecto está organizado en dos partes principales:
+
+- **Backend**: Ubicado en el directorio `backend/`. Contiene el servidor Node.js.
+- **Frontend**: Ubicado en el directorio `client/`. Contiene la aplicación Vue.js.
+
+## Requisitos Previos
+
+Asegúrate de tener instaladas las siguientes herramientas:
+
+- **Node.js**: [Descargar e instalar Node.js](https://nodejs.org/)
+- **npm** (se instala con Node.js) o **yarn**: [Instalar Yarn (opcional)](https://yarnpkg.com/)
+
+## Instalación
+
+Para configurar el proyecto en tu entorno local, sigue estos pasos:
+
+1. **Clona el Repositorio**
+
+   Abre una terminal y ejecuta el siguiente comando para clonar el repositorio:
+
+   ```bash
+   git clone https://github.com/diegmero/profesores.git
